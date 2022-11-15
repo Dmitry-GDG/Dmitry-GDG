@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on: 
-
 - darkly (school 21 project) - DONE
-
 - dr-quine (school 21 project)
 
 - woody-woodpacker (school 21 project)
