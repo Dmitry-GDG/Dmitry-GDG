@@ -4,6 +4,8 @@
 
 - darkly (school 21 project) - DONE
 
+- dr-quine (school 21 project)
+
 - woody-woodpacker (school 21 project)
 
 - ft_shield (school 21 project)
