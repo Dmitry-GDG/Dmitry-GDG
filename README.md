@@ -1,10 +1,22 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Bgp At Doors of Autonomous Systems is Simple (school 21 project)
+🔭 I’m currently working on: 
 
-  and
+- darkly (school 21 project) - DONE
 
-🔭 I’m currently working on darkly (school 21 project)
+- woody-woodpacker (school 21 project)
+
+- ft_shield (school 21 project)
+
+- famine (school 21 project)
+
+- snow-crash (school 21 project)
+
+- boot2root (school 21 project)
+
+- override (school 21 project)
+
+- Bgp At Doors of Autonomous Systems is Simple (school 21 project)
 
 📫 How to reach me: @Dmi_G (Telegram)
 
