@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 QA
+
 
 
 📫 How to reach me: @Dmi_G (Telegram)
